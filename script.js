@@ -1,1 +1,6 @@
-//your code here
+function calculateMinCost() {
+  //your code here
+  
+  
+  
+}  
